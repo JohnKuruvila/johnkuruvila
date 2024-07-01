@@ -1,5 +1,5 @@
 ![](https://akjohn.dev)
 
--[*Say* Hi!](https://akjohn.dev/lightbulb)
+# [Say Hi!](https://akjohn.dev/lightbulb)
 
--[Visit my personal website](https://akjohn.dev)
+# [Visit my personal website](https://akjohn.dev)
