@@ -1,2 +1,2 @@
-# [Say Hi!](https://blog.akjohn.dev/lightbulb)
+# [Say Hi!](https://akjohn.dev/lightbulb)
 ![](https://akjohn.dev)
